@@ -1,0 +1,37 @@
+.dark-mode {
+	background-color: black;
+}
+.dark-mode ul li {
+	color: white;
+}
+.dark-mode .n-name{
+	color: white;
+}
+.dark-mode .i-left .i-name span:nth-child(1){
+	color: white;
+}
+.dark-mode .services .awesome span:nth-child(1){
+	color: white;
+}
+.dark-mode .card span:nth-child(2){
+	color: white;
+}
+.dark-mode .card {
+	background-color: black;
+}
+.dark-mode .works .awesome span:nth-child(1) {
+	color: white;
+}
+.dark-mode .portfolio span:nth-child(1) {
+	color: white;
+}
+.dark-mode .t-wrapper .t-heading span:nth-child(1) {
+	color: white;
+}
+.dark-mode .t-wrapper .t-heading span:nth-child(3) {
+	color: white;
+}
+.dark-mode .contact-form .w-left .awesome span:nth-child(1) {
+	color: white;
+}
+
